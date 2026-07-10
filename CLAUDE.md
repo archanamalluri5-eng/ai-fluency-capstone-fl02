@@ -12,3 +12,4 @@ AI Fluency Capstone
 ## Rules
 - Write clean code.
 - Review AI-generated code before using it.
+- Follow Conventional Commits.
