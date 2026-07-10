@@ -7,3 +7,6 @@ This repository contains my capstone project for the FlyRank AI Fluency Internsh
 - JavaScript
 - HTML
 - CSS
+## Features
+
+- AI-assisted development
